@@ -1,7 +1,16 @@
 {
-  "timeZone": "America/New_York",
+  "timeZone": "Asia/Tokyo",
   "dependencies": {
   },
   "exceptionLogging": "STACKDRIVER",
-  "runtimeVersion": "V8"
+  "runtimeVersion": "V8",
+  "dataStudio": {
+    "name": "GitHub Looker Studio Connector",
+    "logoUrl": "https://pbs.twimg.com/profile_images/1790000126066569216/dPW2WygO_400x400.jpg",
+    "company": "lagenorhynque",
+    "companyUrl": "https://github.com/lagenorhynque",
+    "addonUrl": "https://github.com/lagenorhynque",
+    "supportUrl": "https://github.com/lagenorhynque",
+    "description": "GitHub GraphQL APIを利用してリポジトリ検索の結果を取得する。"
+  }
 }
